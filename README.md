@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Raoua 👋
 
-<!--
-**RaouaTrimech/RaouaTrimech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Business Intelligence student at EDC Paris Business School, 
+and software engineer (INSAT). I build ML models and take them from 
+exploration to production.
 
-Here are some ideas to get you started:
+## What I work on
+- **Machine learning & deep learning:** computer vision on hyperspectral images
+- **MLOps:** MLflow, DVC, Docker, Flask, OpenTelemetry
+- **Data & BI:** SQL, Spark, Power BI, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[Pokémon detection: MLOps pipeline](link)**: end-to-end pipeline with full observability
+- **[Fire Calls: Big Data](link)**: Lambda architecture, batch and real-time (Spark, Hadoop)
+- **[Paris listings dashboard](link)**: interactive Power BI analysis
+- **[Large graph generation strategies](link)**: recommendation of a strategy based on graph and machine characteristics
+
+## Looking for
+A data science work-study (alternance) in Paris.
+
+📫 [LinkedIn](link) · raoua.trimech.gl@gmail.com
