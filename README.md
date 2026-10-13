@@ -1,8 +1,7 @@
 # Hi, I'm Raoua 👋
 
-Data Science & Business Intelligence student at EDC Paris Business School, 
-and software engineer (INSAT). I build ML models and take them from 
-exploration to production.
+Data Science & Business Intelligence student at EDC Paris Business School and software engineer (INSAT). 
+I work across machine learning, deep learning, data mining and MLOps, with experience in agricultural research and banking.
 
 ## What I work on
 - **Machine learning & deep learning:** computer vision on hyperspectral images
