@@ -8,6 +8,18 @@ I work across machine learning, deep learning, data mining and MLOps, with exper
 - **MLOps:** MLflow, DVC, Docker, Flask, OpenTelemetry
 - **Data & BI:** SQL, Spark, Power BI, Tableau
 
+## Experience
+
+**MLOps Intern · GTI** · 
+- Built an end-to-end **credit scoring pipeline** with experiment tracking and data versioning (**MLflow, DVC**)
+- Packaged and served the model with **Docker and Flask**
+
+**Research Intern, Computer Vision · Efrei / CY Cergy Paris Université** · 
+- Developed a **Mask R-CNN with a MobileNet backbone** to detect fire blight in apple plants from RGB and **hyperspectral images**
+- Automated annotation generation (DBSCAN clustering of infected pixels → bounding boxes) and added hyperspectral data augmentation
+
+**Accounting Intern · [Company]** · Summer [2026] 
+
 ## Featured projects
 - **Pokémon detection: MLOps pipeline**: end-to-end pipeline with full observability
 - **Fire Calls: Big Data**: Lambda architecture, batch and real-time (Spark, Hadoop)
