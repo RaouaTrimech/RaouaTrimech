@@ -9,10 +9,10 @@ I work across machine learning, deep learning, data mining and MLOps, with exper
 - **Data & BI:** SQL, Spark, Power BI, Tableau
 
 ## Featured projects
-- **[Pokémon detection: MLOps pipeline]**: end-to-end pipeline with full observability
-- **[Fire Calls: Big Data]**: Lambda architecture, batch and real-time (Spark, Hadoop)
-- **[Paris listings dashboard]**: interactive Power BI analysis
-- **[Large graph generation strategies]**: recommendation of a strategy based on graph and machine characteristics
+- **Pokémon detection: MLOps pipeline**: end-to-end pipeline with full observability
+- **Fire Calls: Big Data**: Lambda architecture, batch and real-time (Spark, Hadoop)
+- **Paris listings dashboard**: interactive Power BI analysis
+- **Large graph generation strategies**: recommendation of a strategy based on graph and machine characteristics
 
 ## Looking for
 A data science work-study (alternance) in Paris.
